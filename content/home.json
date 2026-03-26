@@ -8,14 +8,14 @@
     "secondaryColor": "#ff19ac"
   },
   "seo": {
-    "title": "MAWA Reklam | Fordonsdekor, skyltar och digitaltryck i Sundsvall",
+    "title": "MAWA Reklam | Fordonsdekor, skyltar och digitaltryck i Sundsvall med omnejd",
     "description": "MAWA Reklam är ett digitaltryckeri i Sundsvall som designar, producerar och monterar fordonsdekor, butiksdekor, skyltar, dekaler, flaggor, vepor och trycksaker för kunder i hela Sverige.",
     "keywords": []
   },
   "hero": {
-    "eyebrow": "Digitaltryckeri i Sundsvall",
+    "eyebrow": "Digitaltryckeri i Sundsvall  med omnejd",
     "headline": "Skyltar, dekor och trycksaker som lyfter ditt varumärke",
-    "subheadline": "MAWA Reklam designar, producerar och monterar lösningar för fordon, butiker och kampanjer. Vi levererar med hög kvalitet, bra pris och snabb återkoppling – i Sundsvall och över hela Sverige.",
+    "subheadline": "MAWA Reklam designar, producerar och monterar lösningar för fordon, butiker och kampanjer. Vi levererar med hög kvalitet, bra pris och snabb återkoppling – i Sundsvall och över hela Sverige och lite därtill...",
     "primaryCtaLabel": "Begär offert",
     "primaryCtaHref": "#contact"
   },
@@ -28,7 +28,7 @@
     "items": [
       {
         "title": "Fordonsdekor",
-        "description": "Profilera personbilar, transportbilar och större fordonsflottor med hållbara och professionella dekorer."
+        "description": "Profilera personbilar, bussar, transportbilar och större fordonsflottor med hållbara och professionella dekorer."
       },
       {
         "title": "Butiksdekor",
@@ -49,12 +49,16 @@
       {
         "title": "Skyltar",
         "description": "Skyltar för fasad, interiör och vägledning, anpassade efter behov och miljö."
+      },
+      {
+        "title": "Chipspåsar",
+        "description": "Vi marknadsför era chipspåsar som dom bästa smakerna utav paprika-chips, för det är de enda som säljer."
       }
     ]
   },
   "about": {
     "heading": "Om MAWA Reklam",
-    "body": "Vi är ett engagerat team med lång erfarenhet av reklamproduktion och montage. Med auktoriserad kompetens och ett starkt fokus på detaljer hjälper vi företag att få en tydlig och enhetlig profil. Vårt arbetssätt bygger på snabb återkoppling, hög service och lösningar som håller över tid. Från Sundsvall tar vi uppdrag i hela Sverige."
+    "body": "Vi är ett engagerat team med lång erfarenhet av reklamproduktion och montage. Med auktoriserad kompetens och ett starkt fokus på detaljer hjälper vi företag att få en tydlig och enhetlig profil. Vårt arbetssätt bygger på snabb återkoppling, hög service och lösningar som håller över tid. Från Sundsvall tar vi uppdrag i hela Sverige och även utanför våra gränser."
   },
   "usp": {
     "heading": "Därför väljer kunder MAWA Reklam",
@@ -63,7 +67,8 @@
       "Hög kvalitet till rätt pris",
       "Auktoriserad skyltskapare",
       "Design, produktion och montering i samma flöde",
-      "Levererar i hela Sverige"
+      "Levererar i hela Sverige",
+      "Vi gillar att argumentera för vad som är rätt"
     ]
   },
   "testimonials": {
@@ -71,12 +76,16 @@
     "enabled": true,
     "items": [
       {
-        "name": "Kund inom transport",
+        "name": "Kund inom fordonsdekor",
         "quote": "Snabb återkoppling och ett slutresultat som verkligen lyfte vår fordonsflotta."
       },
       {
         "name": "Butiksägare",
         "quote": "Smidig process från idé till färdig dekor, och resultatet blev precis som vi ville."
+      },
+      {
+        "name": "Garageinnehavare",
+        "quote": "Vi uppskattar alla skyltar skapade som visade våra besökare till B respektive GARAGE A"
       }
     ]
   },
@@ -95,12 +104,16 @@
       {
         "question": "Kan ni ta fram både små och stora beställningar?",
         "answer": "Ja, vi hanterar allt från mindre trycksaker till större dekor- och skyltprojekt."
+      },
+      {
+        "question": "Gör ni studentskyltar?",
+        "answer": "Klart vi gör ! Vi designar, skapar, trycker och levererar ordentliga studentskyltar."
       }
     ]
   },
   "contact": {
     "heading": "Kontakta oss",
-    "body": "Berätta kort om ditt projekt så återkommer vi med förslag, pris och nästa steg. Vi hjälper dig att hitta rätt lösning för din profilering.",
+    "body": "Berätta kort om ditt projekt så återkommer vi med förslag, pris och nästa steg. Vi hjälper dig att hitta rätt lösning för din profilering. Obs, ring inte utan mejla oss bara :D",
     "email": "manne@mawareklam.se",
     "phone": "072-5235343",
     "address": "Sundsvall, Sverige"
@@ -116,7 +129,7 @@
   "media": {
     "logoUrl": "assets/generated/mawa-reklam-logo.png",
     "heroImage": {
-      "url": "assets/generated/mawa-reklam-user-1.jpg",
+      "url": "assets/generated/mawa-reklam-media-heroImage.jpg",
       "alt": "MAWA Reklam profilering med fordonsdekor och skyltar"
     },
     "aboutImage": {
