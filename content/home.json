@@ -27,12 +27,12 @@
     "heading": "Våra tjänster",
     "items": [
       {
-        "title": "Fordonsdekor",
-        "description": "Profilera personbilar, bussar, transportbilar och större fordonsflottor med hållbara och professionella dekorer."
-      },
-      {
         "title": "Butiksdekor",
         "description": "Skapa en tydlig och inbjudande butiksmiljö med dekor, foliering och kampanjmaterial."
+      },
+      {
+        "title": "Fordonsdekor",
+        "description": "Profilera personbilar, bussar, transportbilar och större fordonsflottor med hållbara och professionella dekorer."
       },
       {
         "title": "Flaggor och vepor",
@@ -138,16 +138,16 @@
     },
     "gallery": [
       {
+        "url": "assets/generated/mawa-reklam-ai-about.png",
+        "alt": "MAWA Reklam bild 3"
+      },
+      {
         "url": "assets/generated/mawa-reklam-user-1.jpg",
         "alt": "MAWA Reklam bild 1"
       },
       {
         "url": "assets/generated/mawa-reklam-ai-hero.png",
         "alt": "MAWA Reklam bild 2"
-      },
-      {
-        "url": "assets/generated/mawa-reklam-ai-about.png",
-        "alt": "MAWA Reklam bild 3"
       }
     ]
   }
