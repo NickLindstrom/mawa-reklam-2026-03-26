@@ -15,7 +15,7 @@
   "hero": {
     "eyebrow": "Digitaltryckeri i Sundsvall  med omnejd",
     "headline": "Skyltar, dekor och trycksaker som lyfter ditt varumärke",
-    "subheadline": "MAWA Reklam designar, producerar och monterar lösningar för fordon, butiker och kampanjer. Vi levererar med hög kvalitet, bra pris och snabb återkoppling – i Sundsvall och över hela Sverige och lite därtill... 123",
+    "subheadline": "MAWA Reklam designar, producerar och monterar lösningar för fordon, butiker och kampanjer. Vi levererar med hög kvalitet, bra pris och snabb återkoppling – i Sundsvall och över hela Sverige och lite därtill...",
     "primaryCtaLabel": "Begär offert",
     "primaryCtaHref": "#contact"
   },
@@ -53,6 +53,10 @@
       {
         "title": "Chipspåsar",
         "description": "Vi marknadsför era chipspåsar som dom bästa smakerna utav paprika-chips, för det är de enda som säljer."
+      },
+      {
+        "title": "Studentskylar",
+        "description": "Vi gör stdentskylar också,"
       }
     ]
   },
