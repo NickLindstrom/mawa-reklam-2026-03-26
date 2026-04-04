@@ -181,8 +181,9 @@
   function renderGallery(content) {
     var section = document.getElementById('gallery');
     var navLink = document.getElementById('gallery-nav-link');
+    var heading = document.getElementById('gallery-heading');
     var grid = document.getElementById('gallery-grid');
-    if (!section || !navLink || !grid) return;
+    if (!section || !navLink || !heading || !grid) return;
 
     var logoUrl = content.media && content.media.logoUrl ? content.media.logoUrl : '';
     var heroUrl = content.media && content.media.heroImage ? content.media.heroImage.url : '';
@@ -201,6 +202,7 @@
       return;
     }
 
+    setText('gallery-heading', (content.media && content.media.galleryHeading) || 'Inblick i verksamheten');
     grid.innerHTML = galleryItems.map(function (item) {
       return [
         '<figure class="gallery-card">',
