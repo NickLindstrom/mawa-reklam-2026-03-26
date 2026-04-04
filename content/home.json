@@ -10,7 +10,9 @@
   "seo": {
     "title": "MAWA Reklam | Fordonsdekor, skyltar och digitaltryck i Sundsvall med omnejd",
     "description": "MAWA Reklam är ett digitaltryckeri i Sundsvall som designar, producerar och monterar fordonsdekor, butiksdekor, skyltar, dekaler, flaggor, vepor och trycksaker för kunder i hela Sverige.",
-    "keywords": []
+    "keywords": [
+      "Hello world"
+    ]
   },
   "hero": {
     "eyebrow": "Digitaltryckeri i Sundsvall  med omnejd",
@@ -31,12 +33,12 @@
         "description": "Skapa en tydlig och inbjudande butiksmiljö med dekor, foliering och kampanjmaterial."
       },
       {
-        "title": "Fordonsdekor",
-        "description": "Profilera personbilar, bussar, transportbilar och större fordonsflottor med hållbara och professionella dekorer."
-      },
-      {
         "title": "Flaggor och vepor",
         "description": "Synlighet för event, fasader och kampanjer med skräddarsydda flaggor och vepor."
+      },
+      {
+        "title": "Fordonsdekor",
+        "description": "Profilera personbilar, bussar, transportbilar och större fordonsflottor med hållbara och professionella dekorer."
       },
       {
         "title": "Visitkort och foldrar",
@@ -106,12 +108,12 @@
         "answer": "Ja, vi designar, producerar och monterar många av våra lösningar."
       },
       {
-        "question": "Kan ni ta fram både små och stora beställningar?",
-        "answer": "Ja, vi hanterar allt från mindre trycksaker till större dekor- och skyltprojekt."
-      },
-      {
         "question": "Gör ni studentskyltar?",
         "answer": "Klart vi gör ! Vi designar, skapar, trycker och levererar ordentliga studentskyltar."
+      },
+      {
+        "question": "Kan ni ta fram både små och stora beställningar?",
+        "answer": "Ja, vi hanterar allt från mindre trycksaker till större dekor- och skyltprojekt."
       }
     ]
   },
