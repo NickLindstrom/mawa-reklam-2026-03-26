@@ -1,6 +1,6 @@
 (function () {
   var navToggle = document.querySelector('.nav-toggle');
-  var siteNavigation = document.querySelector('#site-navigation, .site-navigation, .editorial-nav');
+  var siteNavigation = document.querySelector('#site-navigation, .site-navigation, .editorial-nav, .showcase-nav');
 
   function escapeHtml(value) {
     return String(value ?? '')
@@ -33,6 +33,14 @@
         return hasText(value);
       });
     });
+  }
+
+  function setThemeMode(mode) {
+    var resolvedMode = mode === 'dark' ? 'dark' : 'light';
+    document.documentElement.setAttribute('data-theme-mode', resolvedMode);
+    if (document.body) {
+      document.body.setAttribute('data-theme-mode', resolvedMode);
+    }
   }
 
   function setHidden(id, hidden) {
@@ -334,6 +342,7 @@
   }
 
   function applyContent(content) {
+    setThemeMode(content.site && content.site.themeMode);
     applySeo(content);
     createBrand('header-brand', content.site.displayName, content.media && content.media.logoUrl);
     createBrand('footer-brand', content.footer.companyName, content.media && content.media.logoUrl);
