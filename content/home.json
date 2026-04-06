@@ -5,7 +5,8 @@
     "displayName": "MAWA Reklam",
     "language": "sv",
     "primaryColor": "#2eacf0",
-    "secondaryColor": "#ff19ac"
+    "secondaryColor": "#ff19ac",
+    "theme": "classic"
   },
   "seo": {
     "title": "MAWA Reklam | Fordonsdekor, skyltar och digitaltryck i Sundsvall med omnejd",
@@ -154,7 +155,7 @@
       },
       {
         "url": "assets/generated/mawa-reklam-ai-hero.png",
-        "alt": "MAWA Reklam bild 2"
+        "alt": "MAWA Reklam bild 21"
       }
     ]
   }
